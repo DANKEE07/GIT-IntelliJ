@@ -6,3 +6,4 @@ cacique_de_lomos = input("Mejor una lopunny por la noche"
 cacique_de_lomos = cacique_de_lomos.upper()
 
 print(cacique_de_lomos)
+uwu??
