@@ -1,0 +1,6 @@
+print("1 gitanito")
+print("2 gitanito")
+print("3 gitanito")
+print("4 gitanito")
+print("5 gitanito")
+print("6 gitanito")
