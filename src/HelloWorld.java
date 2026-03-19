@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("La hora actual es: "+java.time.LocalTime.now());
         System.out.println("La fecha y hora actual son: "+java.time.LocalDateTime.now());
         System.out.println("al lope  si le gustan los femboys");
-        System.out.println("ademas es Bi");
+        System.out.println("ademas es Bi y maricon");
+
     }
 }
